@@ -1,6 +1,4 @@
 
-### Hi, I'm Muhammad Alif Shelviano
- 
 ## I'm a final year Student at Gunadarma University
 
 -  I’m currently undergraduate informatics engineering
