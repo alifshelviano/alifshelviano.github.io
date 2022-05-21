@@ -1,20 +1,23 @@
 ## alifshelviano's Portofolio
 
 
-##Project:
+## Project:
 
 **Sentiment Analyst** 
--[People's Opinion about Offline School During Covid-19](https://github.com/alifshelviano/Sentimen_analysis-PTM-Covid)
+
+- [People's Opinion about Offline School During Covid-19](https://github.com/alifshelviano/Sentimen_analysis-PTM-Covid)
 
 **Object Detection**
--[Spik Bangkit Capstone Project](https://github.com/alifshelviano/spikproject)
 
-**A/B Testing
--[Landing Page]()
--[Cookie Cats]()
+- [Spik Bangkit Capstone Project](https://github.com/alifshelviano/spikproject)
+
+**A/B Testing**
+
+- [Landing Page]()
+- [Cookie Cats]()
 
 
-#Data Dashboard :
+## Data Dashboard :
 
  **Google Data Studio**
  - [Forbes Rich Athletes](https://datastudio.google.com/u/0/reporting/c4314816-d60a-45c0-82ab-6f71b65ff192/page/p_w0umfl7xtc)
