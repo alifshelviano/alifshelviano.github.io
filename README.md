@@ -24,4 +24,5 @@
  - [A/B Testing Landing Page](https://datastudio.google.com/reporting/8809616c-848e-442b-9e94-a599b8f7d186)
 
  **Tableau**
+ <img src="https://github.com/spik-bialtaakid/spikproject/blob/main/22890.jpg](https://github.com/alifshelviano/titanic/blob/master/Screenshot%202022-05-23%20140339.jpg)" alt="Logo" width="450" height="430">
  - [Titanic](https://drive.google.com/file/d/1siLUtdCjne0i9IbCCXGql0HLiGnjlU5B/view?usp=sharing)
