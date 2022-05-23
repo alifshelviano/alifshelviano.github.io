@@ -26,4 +26,4 @@
  **Tableau**
 
  - [Titanic](https://drive.google.com/file/d/1siLUtdCjne0i9IbCCXGql0HLiGnjlU5B/view?usp=sharing)
- - <img src="https://github.com/spik-bialtaakid/spikproject/blob/main/22890.jpg](https://github.com/alifshelviano/titanic/blob/master/Screenshot%202022-05-23%20140339.jpg)" alt="Logo" width="450" height="430">
+ ![db](https://github.com/spik-bialtaakid/spikproject/blob/main/22890.jpg)
