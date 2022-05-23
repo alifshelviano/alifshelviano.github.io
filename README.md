@@ -27,4 +27,4 @@
 
  - [Titanic](https://drive.google.com/file/d/1siLUtdCjne0i9IbCCXGql0HLiGnjlU5B/view?usp=sharing)
 
-<a href="url"><img src="https://github.com/alifshelviano/titanic/blob/master/Screenshot%202022-05-23%20140339.jpg" align="left" height="500" width="600" ></a>
+![FIle](https://github.com/alifshelviano/titanic/blob/master/Screenshot%202022-05-23%20140339.jpg)
