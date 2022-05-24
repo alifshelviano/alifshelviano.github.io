@@ -18,7 +18,7 @@
 
 **Logistic Regression**
 
--[Candy Data](https://github.com/alifshelviano/Candy-Analysis)
+- [Candy Data](https://github.com/alifshelviano/Candy-Analysis)
 
 
 
