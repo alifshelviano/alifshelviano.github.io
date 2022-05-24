@@ -13,8 +13,8 @@
 
 **A/B Testing**
 
-- [Landing Page]()
-- [Cookie Cats]()
+- [Landing Page](https://github.com/alifshelviano/landingpage)
+- [Cookie Cats](https://github.com/alifshelviano/cookie-cats)
 
 **Logistic Regression**
 
@@ -30,5 +30,5 @@
 
  **Tableau**
 
- - [Titanic](https://drive.google.com/file/d/1siLUtdCjne0i9IbCCXGql0HLiGnjlU5B/view?usp=sharing)
+ - [Titanic](https://github.com/alifshelviano/titanic)
 
