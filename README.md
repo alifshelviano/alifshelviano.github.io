@@ -3,7 +3,7 @@
 
 ## Project:
 
-**Sentiment Analyst** 
+**Sentiment Analyst with Naive Bayes** 
 
 - [People's Opinion about Offline School During Covid-19](https://github.com/alifshelviano/Sentimen_analysis-PTM-Covid)
 
