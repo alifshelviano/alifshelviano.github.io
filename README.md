@@ -17,6 +17,7 @@
 - [Cookie Cats]()
 
 **Logistic Regression**
+
 -[Candy Data](https://github.com/alifshelviano/Candy-Analysis)
 
 
