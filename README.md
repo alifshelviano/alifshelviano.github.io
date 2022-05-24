@@ -16,6 +16,10 @@
 - [Landing Page]()
 - [Cookie Cats]()
 
+**Logistic Regression**
+-[Candy Data](https://github.com/alifshelviano/Candy-Analysis)
+
+
 
 ## Data Dashboard :
 
@@ -27,4 +31,3 @@
 
  - [Titanic](https://drive.google.com/file/d/1siLUtdCjne0i9IbCCXGql0HLiGnjlU5B/view?usp=sharing)
 
-![FIle](https://github.com/alifshelviano/titanic/blob/master/Screenshot%202022-05-23%20140339.jpg)
