@@ -14,7 +14,7 @@
 **A/B Testing**
 
 - [Landing Page](https://github.com/alifshelviano/landingpage)
-- [Cookie Cats](https://github.com/alifshelviano/cookie-cats)
+
 
 **Logistic Regression**
 
