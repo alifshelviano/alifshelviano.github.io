@@ -16,11 +16,14 @@
 - [Landing Page](https://github.com/alifshelviano/landingpage)
 
 
-**Logistic Regression**
+**Correlation Analysis**
 
 - [Candy Data](https://github.com/alifshelviano/Candy-Analysis)
+- [Chicken Pox](https://github.com/alifshelviano/learndatasci/blob/master/Analysis%20Chicken%20pox%20.ipynb)
 
+**Data Merging**
 
+-[Countries](https://github.com/alifshelviano/learndatasci/blob/master/Top%205%20Countries%20over%20the%20last%205%20years.ipynb)
 
 ## Data Dashboard :
 
