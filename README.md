@@ -18,7 +18,7 @@
 
 **Correlation Analysis**
 
-- [Candy Data](https://github.com/alifshelviano/Candy-Analysis)
+- What makes candy delicious [Candy Data](https://github.com/alifshelviano/Candy-Analysis)
 - [Chicken Pox](https://github.com/alifshelviano/learndatasci/blob/master/Analysis%20Chicken%20pox%20.ipynb)
 - Does the population of a city affect the winning percentage in sports?
 [Sports in USA](https://github.com/alifshelviano/learndatasci/blob/master/Sports%20in%20USA.ipynb)
