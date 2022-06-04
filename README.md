@@ -32,6 +32,7 @@
  **Google Data Studio**
  - Does your sports hero make it to the Forbes' Top 10 Richest Athletes list? [Forbes Rich Athletes](https://datastudio.google.com/u/0/reporting/c4314816-d60a-45c0-82ab-6f71b65ff192/page/p_w0umfl7xtc)
  - [A/B Testing Landing Page](https://datastudio.google.com/reporting/8809616c-848e-442b-9e94-a599b8f7d186)
+ -  How much Energy Supply and Population Estimate from your Country? [Countries](https://datastudio.google.com/reporting/1e311d70-d89d-42a8-9ed4-f978f290e244)
 
  **Tableau**
 
