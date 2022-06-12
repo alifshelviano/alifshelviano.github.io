@@ -23,7 +23,7 @@
 - Does the population of a city affect the winning percentage in sports?
 [Sports in USA](https://github.com/alifshelviano/learndatasci/blob/master/Sports%20in%20USA.ipynb)
 
-**Data Merging**
+**ETL**
 
 - [Top Countries](https://github.com/alifshelviano/learndatasci/blob/master/Top%205%20Countries%20over%20the%20last%205%20years.ipynb)
 
