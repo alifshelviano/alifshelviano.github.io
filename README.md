@@ -9,7 +9,7 @@
 
 **Object Detection**
 
-- [Spik Bangkit Capstone Project](https://github.com/alifshelviano/spikproject)
+- []()
 
 **A/B Testing**
 
