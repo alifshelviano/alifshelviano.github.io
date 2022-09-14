@@ -7,9 +7,17 @@
 
 - [People's Opinion about Offline School During Covid-19](https://github.com/alifshelviano/Sentimen_analysis-PTM-Covid)
 
+**Decision Tree** 
+
+- [Iris Dataset](https://github.com/alifshelviano/Sentimen_analysis-PTM-Covid)
+
 **Object Detection**
 
 - []()
+
+**LSTM**
+- [Sarcasm Headline](https://github.com/alifshelviano/Sentimen_analysis-PTM-Covid)
+
 
 **A/B Testing**
 
