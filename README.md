@@ -9,24 +9,25 @@
 
 **Decision Tree** 
 
-- [Iris Dataset](https://github.com/alifshelviano/Sentimen_analysis-PTM-Covid)
+- [Iris Dataset](https://github.com/alifshelviano/Machine-Learning/blob/master/Iris%20Decision%20Tree/Sklearn_Decission_Tree.ipynb)
 
 **Object Detection**
 
-- [SSD Mobilenet V2]()
+- [Sign Language SIBI SSD Mobilenet V2](https://github.com/alifshelviano/Machine-Learning/tree/master/SIBI)
 
 **LSTM**
 - [Sarcasm Headline](https://github.com/alifshelviano/Machine-Learning/blob/master/Sarcasm%20LSTM/Sarcasm%20LTSM.ipynb)
 
 **CNN**
-- [Rock paper scissors](https://github.com/alifshelviano/Machine-Learning/blob/master/Sarcasm%20LSTM/Sarcasm%20LTSM.ipynb)
-- [Cat vs Dog](https://github.com/alifshelviano/Machine-Learning/blob/master/Sarcasm%20LSTM/Sarcasm%20LTSM.ipynb)
-- [Clean vs Messy Room](https://github.com/alifshelviano/Machine-Learning/blob/master/Sarcasm%20LSTM/Sarcasm%20LTSM.ipynb)
+- [Rock paper scissors](https://github.com/alifshelviano/Machine-Learning/tree/master/Rock%20vs%20Paper%20vs%20Scissors)
+- [Cat vs Dog](https://github.com/alifshelviano/Machine-Learning/blob/master/Dog%20vs%20Cat/Cat%20vs%20Dog.ipynb)
+- [Clean vs Messy Room](https://github.com/alifshelviano/Machine-Learning/tree/master/Messy%20vs%20Clean%20Room)
 
 
 **A/B Testing**
 
 - [Landing Page](https://github.com/alifshelviano/landingpage)
+- [Game Cookie Cats](https://github.com/alifshelviano/Machine-Learning/tree/master/B%20Testing%20with%20Cookie%20Cats)
 
 
 **Correlation Analysis**
