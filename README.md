@@ -13,10 +13,15 @@
 
 **Object Detection**
 
-- []()
+- [SSD Mobilenet V2]()
 
 **LSTM**
-- [Sarcasm Headline](https://github.com/alifshelviano/Sentimen_analysis-PTM-Covid)
+- [Sarcasm Headline](https://github.com/alifshelviano/Machine-Learning/blob/master/Sarcasm%20LSTM/Sarcasm%20LTSM.ipynb)
+
+**CNN**
+- [Rock paper scissors](https://github.com/alifshelviano/Machine-Learning/blob/master/Sarcasm%20LSTM/Sarcasm%20LTSM.ipynb)
+- [Cat vs Dog](https://github.com/alifshelviano/Machine-Learning/blob/master/Sarcasm%20LSTM/Sarcasm%20LTSM.ipynb)
+- [Clean vs Messy Room](https://github.com/alifshelviano/Machine-Learning/blob/master/Sarcasm%20LSTM/Sarcasm%20LTSM.ipynb)
 
 
 **A/B Testing**
