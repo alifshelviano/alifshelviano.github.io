@@ -55,5 +55,5 @@
  -
  ## Android APP project :
  
- - <a [Download File]href="(https://github.com/alifshelviano/deteksiSIBI/blob/master/deteksiSIBI.apk)" download>Download File</a>
+ - <a href="deteksiSIBI.apk" >Download File</a>
 
