@@ -55,5 +55,5 @@
  -
  ## Android APP project :
  
- - [Download]([https://github.com/alifshelviano/alifshelviano.github.io/raw/master/deteksiSIBI.apk](https://downgit.github.io/#/home?url=https://github.com/alifshelviano/alifshelviano.github.io/raw/master/deteksiSIBI.apk))
+ - [Download](https://downgit.github.io/#/home?url=https://github.com/alifshelviano/alifshelviano.github.io/raw/master/deteksiSIBI.apk)
 
