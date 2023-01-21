@@ -55,5 +55,5 @@
  -
  ## Android APP project :
  
- - <a href="deteksiSIBI.apk" download="download">Download File</a>
+ - <a download="deteksiSIBI.apk">Download File</a>
 
