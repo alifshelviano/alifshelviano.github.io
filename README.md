@@ -55,5 +55,5 @@
  -
  ## Android APP project :
  
- - <a href="deteksiSIBI.apk">donwload="download"</a>
+ - [Download](https://github.com/alifshelviano/alifshelviano.github.io/blob/master/deteksiSIBI.apk)
 
