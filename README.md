@@ -11,7 +11,7 @@
 
 - [Iris Dataset](https://github.com/alifshelviano/Machine-Learning/blob/master/Iris%20Decision%20Tree/Sklearn_Decission_Tree.ipynb)
 
-- [Iris Dataset](https://alifshelviano.github.io)
+- [Link Web](https://alifshelviano.github.io)
 
 **Object Detection**
 
