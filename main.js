@@ -51,16 +51,14 @@ const getData = async (username, collectionName, pageNo) => {
 
         jsonData.forEach(function (data) {
             console.log(data);
-
+        
             let div = document.createElement("div");
             div.classList.add("card");
             showData.appendChild(div);
-
-            div.innerHTML = `
-                <img src=${data.urls.small} alt="">
-                <a href=${data.links.html} target="_blank">${data.alt_description}</a>
-            `;
+        
+            div.innerHTML = `<img src=${data.urls.small} alt="">`;
         });
+        
     } catch (error) {
         console.error("Error fetching data:", error);
     }
