@@ -55,6 +55,11 @@ nav {
 .card {
     margin-inline: 18px;
     margin-top: 30px;
+    margin-bottom: 20px;
+}
+.card img {
+    max-width: 100%; /* Ensure images don't exceed the width of their container */
+    height: auto; /* Maintain the aspect ratio of the images */
 }
 
 .card a {
