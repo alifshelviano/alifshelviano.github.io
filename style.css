@@ -1,7 +1,17 @@
+<<<<<<< HEAD
 /* GENERAL */
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap");
 
+=======
+/* General */
+body{
+    background-color: #bffddf;
+    
+}
+/* The emerging W3C standard
+   that is currently Firefox-only */
+>>>>>>> 974a553c486717521c4593089fe4b0cbf7402b4c
 * {
   margin: 0;
   padding: 0;
@@ -11,8 +21,21 @@ body {
   font-family: "Poppins", sans-serif;
 }
 
+<<<<<<< HEAD
 html {
   scroll-behavior: smooth;
+=======
+
+*::-webkit-scrollbar-thumb {
+    background-color: rgb(142, 141, 141);
+    border-radius: 20px;
+    border: 3px solid white;
+}
+  
+
+hr {
+    background-color: rgb(98, 98, 98);
+>>>>>>> 974a553c486717521c4593089fe4b0cbf7402b4c
 }
 
 p {
