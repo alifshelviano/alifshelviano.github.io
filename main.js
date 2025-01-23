@@ -64,7 +64,7 @@ const getData = async (username, collectionName, pageNo) => {
     }
 };
 
-// Usage in the event listeners...
+
 document.getElementById("searchBtn").addEventListener("click", function () {
     let collectionName = searchInput.value.trim();
     if (collectionName !== "") {
