@@ -1,6 +1,7 @@
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 const businessInfo = `
+Name : alif shelviano
 
 General Information:
 Linkedin: https://www.linkedin.com/in/alifshelviano/
