@@ -5,10 +5,43 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>My Portfolio</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css" />
     <link rel="stylesheet" href="mediaqueries.css" />
   </head>
   <body>
+    
+    <section class="chat-window">
+      <button class="close">x close</button>
+      <div class="chat">
+          <div class="model">
+              <p>Hello! What would you like to know about me?</p>
+          </div>
+          
+      </div>
+      <div class="input-area">
+          <input placeholder="Ask me anything..." type="text">
+          <button>
+              <img src="assets/send-icon.png" alt="send">
+          </button>
+      </div>
+    </section>
+    <div class="chat-button">
+      <img src="assets/chat-icon.png" alt="start chat">
+  </div>
+
+  <script type="importmap">
+      {
+        "imports": {
+          "@google/generative-ai": "https://esm.run/@google/generative-ai"
+        }
+      }
+  </script>
+  
+  <script type="module" src="AIChatBot/AIbot.js"></script>
+
     <nav id="desktop-nav">
       <div class="logo">Alif Shelviano</div>
       <div>
@@ -43,12 +76,12 @@
       </div>
       <div class="section__text">
         <p class="section__text__p1">Hello, I'm</p>
-        <h1 class="title">Alif Shelviano</h1>
+        <h1 class="title">Alif</h1>
         <p class="section__text__p2">Data Scientist</p>
         <div class="btn-container">
           <button
             class="btn btn-color-2"
-            onclick="window.open('./assets/resume-example.pdf')"
+            onclick="window.open('./assets/cv_alif.pdf')"
           >
             Download CV
           </button>
@@ -709,7 +742,7 @@
             alt="Email icon"
             class="icon contact-icon email-icon"
           />
-          <p><a href="mailto:examplemail@gmail.com">malifshelfiano@gmail.com</a></p>
+          <p><a href="mailto:examplemail@gmail.com">alifshelviano@gmail.com</a></p>
         </div>
         <div class="contact-info-container">
           <img
