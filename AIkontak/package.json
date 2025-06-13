@@ -1,0 +1,16 @@
+{
+  "name": "aichatbot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.22.0",
+    "jsdom": "^26.0.0"
+  },
+  "description": ""
+}

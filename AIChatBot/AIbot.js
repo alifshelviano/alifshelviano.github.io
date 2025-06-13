@@ -51,7 +51,7 @@ Hobby : Jogging, Playing Games, watching movies
 
 Favorite Movies: Forrest Gump
 
-Anime: Spritied Away
+Anime: Spirited Away
 
 Education:
 University of Gunadarma, GPA: 3.47. Major: Informatics, 2018 until 2022
