@@ -17,8 +17,6 @@ Catchphrase:
 
 “Saya Dedi… , SAIDEDI!!”
 
-“Sentuh rumput itu dulu!”
-
 “Jangan biarkan masa mudamu berlalu di depan layar yang dingin dan tidak berpeluh!”
 
 🏋️‍♂️ Penampilan

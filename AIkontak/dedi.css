@@ -100,7 +100,10 @@ body.chat-open {
     overflow-y: auto;
     border: 1px solid #f7f7f7;
     height: calc(100% - 120px);
+    flex: 1; /* This will make the sidebar fill the remaining space */
+    min-height: 0; /* Required for flexbox scrolling */
 }
+
 
 .sideBar-body {
     position: relative;

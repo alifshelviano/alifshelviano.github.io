@@ -1,61 +1,144 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>My Profile</title>
+<!-- Viewport meta tag for responsive design -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
+/* General body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Back link styling */
+.back-link {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.back-link img {
+  width: 30px;
+  height: auto;
+}
+
+/* Centered heading */
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+/* Card container styling */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 300px;
+  width: 100%; /* Use percentage for width */
+  max-width: 400px; /* Adjust max-width */
   margin: auto;
   text-align: center;
-  font-family: arial;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden; /* Ensures content stays within rounded corners */
 }
 
+/* Profile image styling */
+.card img {
+  width: 100%; /* Make image responsive */
+  height: auto;
+  display: block;
+}
+
+/* Container for text content within the card */
+.card-container {
+    padding: 16px;
+}
+
+/* Title class styling */
 .title {
   color: grey;
-  font-size: 18px;
+  font-size: 1rem; /* Use rem for scalable font size */
+  line-height: 1.5;
+  margin: 16px 0;
 }
 
+/* General paragraph styling */
+p {
+    margin: 10px 0;
+}
+
+/* Button styling */
 button {
   border: none;
   outline: 0;
   display: inline-block;
-  padding: 8px;
+  padding: 12px 24px;
   color: white;
   background-color: #000;
   text-align: center;
   cursor: pointer;
   width: 100%;
-  font-size: 18px;
+  font-size: 1rem; /* Use rem for scalable font size */
+  transition: opacity 0.3s;
+  border-radius: 5px;
 }
 
+/* Link styling for social media icons for example */
 a {
   text-decoration: none;
-  font-size: 22px;
+  font-size: 1.2rem;
   color: black;
 }
 
+/* Hover effect for buttons and links */
 button:hover, a:hover {
   opacity: 0.7;
+}
+
+/* Media query for smaller screens */
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+
+    h1 {
+        font-size: 1.5rem;
+    }
+
+    .title {
+        font-size: 0.9rem;
+    }
+
+    button {
+        font-size: 0.9rem;
+        padding: 10px 20px;
+    }
 }
 </style>
 </head>
 <body>
-    <a href="../dedi.html">
-      <img src="../img/back-icon.PNG">
- </a>
-<h2 style="text-align:center">My Profile</h2>
+    <a href="../dedi.html" class="back-link">
+        <!-- It's better to use an actual icon or a more descriptive image for the back button -->
+        <img src="https://placehold.co/40x40/000000/FFFFFF?text=%E2%86%90" alt="Back">
+    </a>
 
-<div class="card">
-  <img src="../img/saidedi.png" alt="John" style="width:90%">
-  <h1>Saidedi</h1>
-  <p class="title">
-Kepribadian:Penuh semangat dan dramatis, selalu memberikan motivasi dengan intonasi heroik 
-dan gaya teatrikal. saidedi mengajak anak muda untuk keluar dari dunia maya dan beraktivitas fisik.</p>
-  <p>Available</p>
-  <p>+919XXXXXXXXX</p>
- <p><button>Click to change profile picture</button></p>
-</div>
+    <h2>My Profile</h2>
+
+    <div class="card">
+      <h1>Saidedi</h1>
+        <img src="../img/saidedi.png" style="width:100%">
+        <div class="card-container">
+            
+            <p class="title">
+                Kepribadian: Penuh semangat dan dramatis, selalu memberikan motivasi dengan intonasi heroik 
+                dan gaya teatrikal. Saidedi mengajak anak muda untuk keluar dari dunia maya dan beraktivitas fisik.
+            </p>
+            <p><strong>Status:</strong> Available</p>
+            <p><strong>Contact:</strong> +919XXXXXXXXX</p>
+            <p><button>Change Profile Picture</button></p>
+        </div>
+    </div>
 
 </body>
 </html>

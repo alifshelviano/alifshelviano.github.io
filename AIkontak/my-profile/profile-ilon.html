@@ -1,59 +1,145 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>My Profile - Ilon Mask</title>
+<!-- Viewport meta tag is essential for responsive design -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style>
+/* General body styles */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Back link styling */
+.back-link {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.back-link img {
+  width: 30px;
+  height: auto;
+}
+
+/* Centered heading */
+h2 {
+  text-align: center;
+  color: #333;
+}
+
+/* Card container styling */
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-  max-width: 300px;
+  width: 100%; /* Use percentage for width for flexibility */
+  max-width: 400px; /* Set a max-width for larger screens */
   margin: auto;
   text-align: center;
-  font-family: arial;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden; /* Ensures content like images respects the border-radius */
 }
 
+/* Profile image styling */
+.card img {
+  width: 100%; /* Make image fill the card width */
+  height: auto;
+  display: block;
+}
+
+/* Container for text content within the card for padding */
+.card-container {
+    padding: 16px;
+}
+
+/* Title class styling for the personality description */
 .title {
   color: grey;
-  font-size: 18px;
+  font-size: 1rem; /* Use rem for scalable font size */
+  line-height: 1.5; /* Improve readability */
+  margin: 16px 0;
 }
 
+/* General paragraph styling */
+p {
+    margin: 10px 0;
+    color: #333;
+}
+
+/* Button styling */
 button {
   border: none;
   outline: 0;
   display: inline-block;
-  padding: 8px;
+  padding: 12px 24px;
   color: white;
   background-color: #000;
   text-align: center;
   cursor: pointer;
   width: 100%;
-  font-size: 18px;
+  font-size: 1rem; /* Use rem for scalable font size */
+  transition: opacity 0.3s;
+  border-radius: 5px;
+  margin-top: 10px;
 }
 
+/* General link styling */
 a {
   text-decoration: none;
-  font-size: 22px;
+  font-size: 1.2rem;
   color: black;
 }
 
+/* Hover effect for better user experience */
 button:hover, a:hover {
   opacity: 0.7;
+}
+
+/* Media query for smaller screens (mobile devices) */
+@media (max-width: 600px) {
+    body {
+        padding: 10px; /* Reduce padding on small screens */
+    }
+
+    h1 {
+        font-size: 1.5rem; /* Adjust heading size */
+    }
+
+    .title {
+        font-size: 0.9rem; /* Adjust title font size */
+    }
+
+    button {
+        font-size: 0.9rem;
+        padding: 10px 20px;
+    }
 }
 </style>
 </head>
 <body>
-    <a href="../ilon.html">
-      <img src="../img/back-icon.PNG">
- </a>
-<h2 style="text-align:center">My Profile</h2>
+    <a href="../ilon.html" class="back-link">
+        <!-- Using a placeholder for the back icon -->
+        <img src="https://placehold.co/40x40/000000/FFFFFF?text=%E2%86%90" alt="Back">
+    </a>
 
-<div class="card">
-  <img src="../img/ilon.png" alt="John" style="width:90%">
-  <h1>Ilon Mask</h1>
-  <p class="title">Ilon Mask selalu mengenakan pakaian formal, biasanya jas hitam dan dasi, dengan masker wajah yang menutupi sebagian besar wajahnya. Ilon mask akan marah jika di tanya pertanyaan konyol atau tidak relevan.</p>
-  <p>Available</p>
-  <p>+919XXXXXXXXX</p>
- <p><button>Click to change profile picture</button></p>
-</div>
+    <h2>My Profile</h2>
+
+    <div class="card">
+        <!-- Using a placeholder for the profile picture -->
+        <img src="../img/ilon.png" alt="Ilon Mask Profile Picture">
+        <div class="card-container">
+            <h1>Ilon Mask</h1>
+            <p class="title">
+                Ilon Mask selalu mengenakan pakaian formal, biasanya jas hitam dan dasi, dengan masker wajah yang menutupi sebagian besar wajahnya. Ilon mask akan marah jika di tanya pertanyaan konyol atau tidak relevan.
+            </p>
+            <p><strong>Status:</strong> Available</p>
+            <p><strong>Contact:</strong> +919XXXXXXXXX</p>
+            <p><button>Change Profile Picture</button></p>
+        </div>
+    </div>
 
 </body>
 </html>
