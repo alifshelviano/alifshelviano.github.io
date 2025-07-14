@@ -13,6 +13,7 @@ body {
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents tiling */
   background-attachment: fixed; /* Keeps the image fixed while scrolling */
+  
 }
 
 html {
@@ -362,7 +363,7 @@ section {
 }
 
 .experience-sub-title {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
@@ -402,7 +403,7 @@ article .icon {
 
 .color-container {
   border-color: rgb(0, 0, 0);
-  background: rgb(168, 166, 166);
+  background: rgb(63, 63, 63);
   
   
 }
@@ -415,7 +416,7 @@ article .icon {
 
 .project-title {
   margin: 1rem;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
 }
 
 .project-btn {

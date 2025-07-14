@@ -29,6 +29,10 @@ Data Scientist Professional from:
 
 
 Experience:
+Learning Facilitator | Google Cloud Arcade | Remote |                                                                            
+●	Selected as a facilitator for Google Cloud Arcade 2025 from hundreds of candidates.
+●	Accompany participants during the study period starting from July 15 - September 16, 2025.
+●	Organize and facilitate participant study groups within the Google Skill Boost program.
 Juara Gcp Season 11 in 2025:
 ● Created an application for customer service to respond to audio based customer reviews with gemini.
 ● Generated a marketing campaign based on the 5-cluster K-means analysis result using Gemini AI Pro.
@@ -46,6 +50,27 @@ Machine Learning path at Bangkit Academy in 2021:
 ● Collaborated with team to implement CI/CD practices for app project using GitHub actions in Android Studio.
 ● Enhanced SSD object detection model to recognize 24 alphabetic signs of SIBI (Indonesian Sign Language).
 ● Provided clear project documentation using google drive, google word and spread sheets.
+
+PERSONAL PROJECTS
+Google Play Scrapper| Access Live                                                                                                                                       2024                                                                  
+●	Allowed users to specify app IDs, review count, and language, then exports the collected data to CSV for further analysis.
+●	Developed a Python application to automatically fetch and save user reviews from Google Play Store apps using the google-play-scraper library.
+Personal Rag Chatbot Resume | Access Live                                                                                                   	            2024                                                                 
+●	Utilized Google Gemini AI to generate personalized responses based on structured resume data and FAQs.
+●	Provided a user-friendly interface for real-time conversation using HTML, CSS, and JavaScript,
+AI Kontak: Multi-Character RAG Chatbot Platform | Access Live                                                                                       2025                                                              
+●	Engineered a dynamic web chat platform enabling seamless interaction between users and multiple  AI personas.
+●	Integrated Google Gemini API for advanced conversational AI, automated message flows in a real-time with JS.
+GeminiAI vs LLamaAI | Access Live                                                                                                                                      2025                                                                  
+●	Developed a Streamlit web app to compare and display responses from Google Gemini and Meta-AI models side by side.
+●	Designed a user-friendly interface for real-time AI benchmarking and prompt experimentation.
+Text to Voice App | Access Live                                                                                                                                             2025                                                                  
+●	Built interactive web applications using Streamlit to convert Indonesian text to speech with Google gTTS and Microsoft Edge TTS APIs.
+●	Integrated user-friendly features such as voice selection, speed and pitch adjustment, audio playback, and MP3 download.
+Puisi AI | Access Live                                                                                                                                                               2025                                                                  
+●	Integrated Edge TTS for real-time text-to-speech conversion, allowing users to select voice, rate, and pitch, and download the resulting MP3 audio.
+●	Created a Streamlit web application that transforms uploaded text, PDF, or DOCX files into original Indonesian poems using Google Gemini AI.
+
 
 Hobby : Jogging, Playing Games, watching movies
 
