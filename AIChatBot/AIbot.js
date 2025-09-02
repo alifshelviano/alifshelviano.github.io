@@ -146,7 +146,7 @@ Example: "Thank you for reaching out! Please let us know if you need further ass
 
 `;
 
-const API_KEY = "AIzaSyBxKPDLwh2WFHnECk_hDk_krp2yg_fI_iU";
+const API_KEY = "AIzaSyDgrH9eE9jiZgw2KPTght81FF332gEGImU";
 const genAI = new GoogleGenerativeAI(API_KEY);
 const model = genAI.getGenerativeModel({ 
     model: "gemini-2.0-flash",
