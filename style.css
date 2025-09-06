@@ -73,10 +73,17 @@ a:hover {
 }
 
 /* HAMBURGER MENU */
-
+#desktop-nav, 
+#hamburger-nav {
+  background-color: #1b67ff; /* Dark blue */
+  color: white; /* Text color */
+}
 #hamburger-nav {
   display: none;
+
 }
+
+
 
 .hamburger-menu {
   position: relative;
@@ -86,6 +93,7 @@ a:hover {
 .hamburger-icon {
   display: flex;
   flex-direction: column;
+  color: #f5f5f5;
   justify-content: space-between;
   height: 24px;
   width: 30px;
@@ -365,7 +373,7 @@ section {
 .experience-sub-title {
   color: rgb(255, 255, 255);
   font-weight: 600;
-  font-size: 1.75rem;
+  font-size: 2rem;
   margin-bottom: 2rem;
 }
 
@@ -541,6 +549,12 @@ body.chat-open {
   justify-content: space-between;
 
   .close {
+    position: absolute;
+      right: 0px;
+      top: 0px;
+      width: 330px;
+      height:35x;
+      display: block;
       border: none;
       padding: 8px 0;
       background-color: rgb(0, 0, 0);
@@ -548,6 +562,11 @@ body.chat-open {
       border-radius: 20px 20px 0 0;
       cursor: pointer;
   }
+
+.chat-window {
+  padding: 0;                 /* remove white padding */
+  overflow: hidden;           /* prevent inner gaps */
+}
 
   .chat {
       flex: 1;
